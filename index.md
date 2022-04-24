@@ -1,6 +1,6 @@
 # Matea Turalija
 
-- Research and teaching assistant, Ph.D. student of [informatics](https://www.inf.uniri.hr/en/study-programmes/university-postgraduate-doctoral-study-informatics) at [University of Rijeka](https://uniri.hr/en/) [Department of Informatics](https://www.inf.uniri.hr/en/)
+- Research and teaching assistant, Ph.D. student of [informatics](https://www.inf.uniri.hr/en/study-programmes/university-postgraduate-doctoral-study-informatics) at [University of Rijeka](https://uniri.hr/en/) [Faculty of Informatics and Digital Technologies](https://www.inf.uniri.hr/en/)
 - Member of [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/en/)
 - Researcher on [Horizon 2020](https://cordis.europa.eu/project/id/870935) project [Measuring the Social Dimension of Culture (MESOC)](https://mesoc-project.eu/)
 
