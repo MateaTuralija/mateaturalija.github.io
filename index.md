@@ -15,6 +15,7 @@
 
 ## Teaching activities
 
+- [Computer Architecture and Organization](https://group.miletic.net/hr/nastava/kolegiji/AOR/) (auditory exercises)
 - [Computer Networks](https://group.miletic.net/hr/nastava/kolegiji/RM/) (laboratory exercises)
 - [Network and Mobile Operating Systems](https://group.miletic.net/hr/nastava/kolegiji/MMOS/) (auditory exercises)
 
