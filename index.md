@@ -30,4 +30,3 @@
 - [Google Scholar](https://scholar.google.com/citations?user=C03KugcAAAAJ)
 - [GitHub](https://github.com/MateaTuralija)
 - [GitLab](https://gitlab.com/MateaTuralija)
-  
