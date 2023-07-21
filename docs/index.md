@@ -4,6 +4,8 @@
 - Member of [Group for Applications and Services on Exascale Research Infrastructure (GASERI)](https://group.miletic.net/en/)
 - Researcher on [Horizon 2020](https://cordis.europa.eu/project/id/870935) project [Measuring the Social Dimension of Culture (MESOC)](https://mesoc-project.eu/)
 
+![Matea Turalija profile picture](images/profile.jpg)
+
 ## Scientific interests
 
 - Quantum and classical mechanics of atoms and molecules, molecular dynamics simulation
