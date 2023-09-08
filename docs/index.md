@@ -13,7 +13,7 @@
 
 ## Publications
 
-1. **Turalija, M.**, Petrović, M. & Kovačić, B. [Towards General-Purpose Long-Timescale Molecular Dynamics Simulation on Exascale Supercomputers with Data Processing Units.](https://ieeexplore.ieee.org/document/9803537) in 2022 45th International Convention on Information, Communication, and Electronic Technology (MIPRO), 300–306 (2021). [doi:10.23919/MIPRO55190.2022.9803537](https://doi.org/10.23919/MIPRO55190.2022.9803537)
+1. **Turalija, M.**, Petrović, M. & Kovačić, B. [Towards General-Purpose Long-Timescale Molecular Dynamics Simulation on Exascale Supercomputers with Data Processing Units.](https://ieeexplore.ieee.org/document/9803537) in 2022 45th International Convention on Information, Communication, and Electronic Technology (MIPRO), 300–306 (2022). [doi:10.23919/MIPRO55190.2022.9803537](https://doi.org/10.23919/MIPRO55190.2022.9803537)
 
 ## Teaching activities
 
