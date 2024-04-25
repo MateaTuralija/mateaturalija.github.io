@@ -14,7 +14,7 @@
 ## PhD research progress
 
 - 2023-11-12: presented at [2nd Scientific Conference of Doctoral Students of Informatics: INFCON23](https://inf.uniri.hr/images/studiji/poslijediplomski/INFCON/2023/Infcon_2023_program.pdf) ([proceedings](https://www.inf.uniri.hr/images/studiji/poslijediplomski/INFCON/2023/Infcon_proc_2023.pdf))
-- 2022-15-12: passed [Doctoral qualification exam](https://www.inf.uniri.hr/studiji/poslijediplomski-studij/obavijesti-doktorskog-studija/1166-kvalifikacijski-doktorski-ispit-kandidatkinje-matee-turalije) ([paper](https://www.inf.uniri.hr/images/studiji/poslijediplomski/kvalifikacijski/Turalija_Matea.pdf)
+- 2022-15-12: passed [Doctoral qualification exam](https://www.inf.uniri.hr/studiji/poslijediplomski-studij/obavijesti-doktorskog-studija/1166-kvalifikacijski-doktorski-ispit-kandidatkinje-matee-turalije) ([paper](https://www.inf.uniri.hr/images/studiji/poslijediplomski/kvalifikacijski/Turalija_Matea.pdf))
 - 2022-11-11: presented at [1st Scientific Conference of Doctoral Students of Informatics: INFCON22](https://www.inf.uniri.hr/images/studiji/poslijediplomski/INFCON/Infcon_2022_program.pdf) ([proceedings](https://www.inf.uniri.hr/images/studiji/poslijediplomski/INFCON/Infcon_proc_2022_FIN.pdf))
 
 ## Publications
